@@ -3,7 +3,6 @@ module github.com/m-mizutani/httpdump
 go 1.21.0
 
 require (
-	github.com/go-chi/chi/v5 v5.0.11
 	github.com/m-mizutani/goerr v0.1.11
 	github.com/urfave/cli/v2 v2.26.0
 )
